@@ -1,4 +1,5 @@
 ### CLIfy
+CLIfy is a CLI tool that automates typing in the console, which can be used in presentations.
 
 #### setup
 1. clone repository
